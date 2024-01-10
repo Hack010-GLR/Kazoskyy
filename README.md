@@ -8,6 +8,7 @@ Full Stack Developer with 5 years of Python expertise, 4 years of HTML/CSS/JS we
 
 * 🌍  I'm based in The Netherlands
 * ✉️  You can contact me at [Dawidowski220406@gmail.com](mailto:Dawidowski220406@gmail.com)
+* 🚀  I'm currently working on [Working on a mobile game, Window manger with extra's](http://https://github.com/kazoskyy/SysOptiMaster)
 * 🧠  I'm learning Pixelart, C++, Php, Java
 * 🤝  I'm open to collaborating on Other Game's or anything using my skills
 
